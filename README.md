@@ -1,4 +1,4 @@
-## Hi there 👋
+## Good morning 👋
 
 <!--
 **keikei-miyoshi/keikei-miyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
